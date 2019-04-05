@@ -10,3 +10,5 @@ We will track the progress on our plan [here](https://github.com/rohitsardesai50
 - [CKAD Curriculum](https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.13.0.pdf)
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [Tips](https://medium.com/chotot/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
+- [wshaari](https://github.com/walidshaari/Kubernetes-Certified-Administrator/blob/master/README-ckad.md)
+- [twajr](https://github.com/twajr/ckad-prep-notes/blob/master/README.md)
