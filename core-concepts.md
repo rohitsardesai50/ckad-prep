@@ -1,13 +1,12 @@
 # API Primitives
 
+## API objects
 - [Pods](https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/), [ReplicaSets](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/), and [deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-- Services and ingress
-- Volumes, persistent volumes, and persistent volume claims
-- StatefulSets
+- [Services](https://kubernetes.io/docs/concepts/services-networking/service/) and [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+- [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/), [persistent volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/), and [persistent volume claims](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims)
+- [StatefulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
 
-
-## Docs
-
+## References
 - https://kubernetes.io/docs/concepts/overview/kubernetes-api/
 - https://kubernetes.io/docs/reference/using-api/api-concepts/
 - https://kubernetes.io/docs/reference/#api-reference
@@ -22,4 +21,3 @@
 
 ## Exercises
 - https://github.com/dgkanatsios/CKAD-exercises/blob/master/a.core_concepts.md
-
