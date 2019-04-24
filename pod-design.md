@@ -11,5 +11,5 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#creating-a
 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#rolling-back-a-deployment
 
 # Understand Jobs and CronJobs
-https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/
-https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+- https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/
+- https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
