@@ -5,7 +5,7 @@
 
 # Docs
 ## Understand ConfigMaps
-
+https://medium.com/google-cloud/kubernetes-configmaps-and-secrets-68d061f7ab5b
 
 ## Understand Deployments and how to perform rolling updates
 
