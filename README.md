@@ -4,7 +4,7 @@
 The high level learning plan is [here](https://github.com/rohitsardesai50/ckad-prep/blob/master/plan.md)
 
 ## Progress
-We will track the progress on our plan [here](https://github.com/rohitsardesai50/ckad-prep/blob/master/progress.md)
+The progress can be tracked [here](https://github.com/rohitsardesai50/ckad-prep/blob/master/progress.md)
 
 ## Resources
 - [kubectl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
