@@ -2,7 +2,6 @@
 # Exercises
 ## ConfigMaps
 - https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
-- https://github.com/dgkanatsios/CKAD-exercises/blob/master/d.configuration.md
 
 ## SecurityContext
 - https://kubernetes.io/docs/tasks/configure-pod-container/security-context/
@@ -10,6 +9,12 @@
 ## Assigning CPU , memory resources to applications
 - https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/
 - https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/
+
+## Create & consume Secrets
+- https://kubernetes.io/docs/concepts/configuration/secret/
+
+## ServiceAccount
+- https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
 
 # Docs
 ## Understand ConfigMaps
