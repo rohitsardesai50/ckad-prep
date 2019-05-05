@@ -28,7 +28,7 @@
 - https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/
 
 ## Create & consume Secrets
-[https://www.youtube.com/watch?v=GoITFljdJdo](https://www.youtube.com/watch?v=GoITFljdJdo)
+[Kubernetes Webinar Series - Using ConfigMaps and Secrets-JanakiramMSV](https://www.youtube.com/watch?v=GoITFljdJdo)
 
 ## Understand ServiceAccounts
 - https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/
