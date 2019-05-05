@@ -15,6 +15,7 @@
 
 ## ServiceAccount
 - https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
+- https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
 
 # Docs
 ## Understand ConfigMaps
@@ -27,5 +28,9 @@
 - https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/
 
 ## Create & consume Secrets
+[https://www.youtube.com/watch?v=GoITFljdJdo](https://www.youtube.com/watch?v=GoITFljdJdo)
 
 ## Understand ServiceAccounts
+- https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/
+- https://kubernetes.io/docs/reference/access-authn-authz/authentication/
+- [Kubernetes Auth and Access Control by Eric Chiang, CoreOS](https://www.youtube.com/watch?v=WvnXemaYQ50)
