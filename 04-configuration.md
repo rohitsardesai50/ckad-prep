@@ -15,7 +15,6 @@
 
 ## ServiceAccount
 - https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
-- https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/
 
 # Docs
 ## Understand ConfigMaps
