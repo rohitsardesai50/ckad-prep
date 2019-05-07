@@ -14,3 +14,5 @@ The progress can be tracked [here](https://github.com/rohitsardesai50/ckad-prep/
 - [wshaari-Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator/blob/master/README-ckad.md)
 - [twajr-ckad-prep-notes](https://github.com/twajr/ckad-prep-notes/blob/master/README.md)
 - [LF Course - Intro to K8S](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+1T2018/course/)
+- [YAML templates](https://github.com/dennyzhang/kubernetes-yaml-templates)
+- [cheatsheet 2](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-A4)
