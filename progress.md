@@ -22,12 +22,12 @@ Once we have mastered a section, we will check it off and move on to the next.
   - [x] Understand Deployment Rollbacks
   - [x] Understand Jobs and CronJobs
 - [ ] - __State Persistence - 8%__
-  - [ ] - Understand PVCs for Storage
+  - [ ] Understand PVCs for Storage
 - [ ] __Observability - 18%__
   - [x] Liveness and Readiness Probes
   - [x] Understand Container Logging
   - [x] Understand Monitoring Application in Kubernetes
   - [x] Understand Debugging in Kubernetes
-- [] __Services and Networking - 13%__
-  - [] Understand Services
-  - [] Basic Network Policies
+- [ ] __Services and Networking - 13%__
+  - [ ] Understand Services
+  - [ ] Basic Network Policies
