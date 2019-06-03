@@ -8,6 +8,7 @@ The progress can be tracked [here](https://github.com/rohitsardesai50/ckad-prep/
 
 ## Resources
 - [K8S docs](https://kubernetes.io/docs)
+- [CKAD Weekly Challenge Series](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681)
 - [kubectl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [Tips](https://medium.com/chotot/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
