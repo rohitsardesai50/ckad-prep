@@ -17,4 +17,8 @@ The progress can be tracked [here](https://github.com/rohitsardesai50/ckad-prep/
 - [LF Course - Intro to K8S](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+1T2018/course/)
 - [YAML templates](https://github.com/dennyzhang/kubernetes-yaml-templates)
 - [cheatsheet 2](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-A4)
+- [Kubernetes manifests templates and cheat sheets](https://github.com/nkuba/k8s-admin-helper)
+- [Bootstrapping a Kubernetes Cluster from Scratch](https://github.com/nkuba/k8s-cluster-bootstrap/tree/master/manual-way)
 - [Awesome Kubernetes Curated List](https://github.com/ramitsurana/awesome-kubernetes)
+- [GateOne browser for exams](https://github.com/liftoff/GateOne/)
+
