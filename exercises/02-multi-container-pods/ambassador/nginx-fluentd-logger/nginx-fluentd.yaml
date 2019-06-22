@@ -1,0 +1,32 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx-fluentd
+  labels:
+    type: webserver
+spec:
+  volumes:                          
+    - name: nginxlog-pv-storage  
+      persistentVolumeClaim:       
+        claimName: nginxlog-pv-claim
+    - name: log-config
+      configMap:
+        name: fluentd-config
+  containers:
+  - name: webcont
+    image: nginx
+    ports:
+    - containerPort: 80
+    volumeMounts:
+      - mountPath: "/var/log/nginx/"
+        name: nginxlog-pv-storage
+  - name: fdlogger
+    image: k8s.gcr.io/fluentd-gcp:1.30
+    env:
+    - name: FLUENTD_ARGS
+      value: -c /etc/fluentd-config/fluentd.conf
+    volumeMounts:  
+      - mountPath: "/var/log"
+        name: nginxlog-pv-storage
+      - name: log-config
+        mountPath: "/etc/fluentd-config"
