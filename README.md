@@ -21,4 +21,7 @@ The progress can be tracked [here](https://github.com/rohitsardesai50/ckad-prep/
 - [Bootstrapping a Kubernetes Cluster from Scratch](https://github.com/nkuba/k8s-cluster-bootstrap/tree/master/manual-way)
 - [Awesome Kubernetes Curated List](https://github.com/ramitsurana/awesome-kubernetes)
 - [GateOne browser for exams](https://github.com/liftoff/GateOne/)
+- [CKAD Browser terminal](https://codeburst.io/the-ckad-browser-terminal-10fab2e8122e)
+- [lucassha ckad tips tricks]https://github.com/lucassha/CKAD-resources/blob/master/tipsAndtricks.md
+- [generators](https://medium.com/@atharvac.cloud/kubernetes-deep-dive-part-3-generators-for-quick-poc-6cac698f08eb)
 
